@@ -1,16 +1,85 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SamanthaMengjunyu/SamanthaMengjunyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>S A M A N T H A ' S &nbsp; W O R K B E N C H</sub>
 
-Here are some ideas to get you started:
+# 想法，要有下一步。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, I'm Samantha · 蒙俊宇 👋
+
+**AI 产品经理 · 从问题出发，让想法成为可验证的产品**
+
+广州 · 趣丸（2026.03 起） &nbsp; / &nbsp; 此前在深圳 · 雷鸟创新
+
+产品探索 &nbsp; × &nbsp; AI 协作 &nbsp; × &nbsp; 原型验证
+
+</div>
+
+---
+
+## 01 / 我在意什么
+
+我习惯先问：**这解决了谁的什么问题？**
+
+我的工作围绕产品判断、方案设计与验证展开。理解技术的能力与边界，把模糊的需求拆成可以讨论、可以尝试、可以衡量的下一步，再与算法和工程伙伴一起推动落地。
+
+这里是我的公开工作台，记录值得分享的思考、实验，以及逐步走向开源的作品。
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ◇ 体验
+人与 AI 如何沟通？<br>
+关注语音交互、意图理解，以及真实场景中的使用体验。
+
+</td>
+<td width="33%" valign="top">
+
+### ↗ 工作流
+AI 如何进入日常工作？<br>
+关注 Agent、工具协作，以及从单次生成到完整流程的转变。
+
+</td>
+<td width="33%" valign="top">
+
+### ◎ 验证
+如何知道方案有效？<br>
+关注评测、反馈、成本与取舍，让产品判断有依据。
+
+</td>
+</tr>
+</table>
+
+## 02 / 我的构建方式
+
+> **发现问题 → 拆解场景 → 协作构建 → 验证效果 → 持续迭代**
+
+- **产品判断**：明确目标、使用场景与优先级。
+- **协作构建**：结合算法、工程与 AI 工具，把想法推进到可体验的原型。
+- **效果验证**：同时看体验、质量和成本，记录失败与取舍。
+
+我喜欢能帮助讨论的原型，也喜欢能经得起追问的结论。
+
+## 03 / 开源，正在路上
+
+部分合作项目目前仍在私有仓库中，计划在准备就绪后逐步开放。公开后，我会在这里补充项目入口、我的具体贡献，以及协作伙伴的署名。
+
+这个工作台会随作品一起生长。
+
+## 04 / 一点足迹
+
+| 阶段 | 关注方向 |
+| :--- | :--- |
+| **现在 · 趣丸 / 广州** | AI 产品探索与工作流落地 |
+| **此前 · 雷鸟创新 / 深圳** | 端云语音交互、意图理解与评测 |
+| **起点 · 数据科学与大数据技术** | 从数据与证据理解问题 |
+
+---
+
+<div align="center">
+
+**欢迎交流 AI 产品、语音体验、评测方法与协作构建。**
+
+<sub>Stay curious. Make it tangible.</sub>
+
+</div>
