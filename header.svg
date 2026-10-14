@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560">
+<defs>
+ <pattern id="grain" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="8" r=".7" fill="#9b917e" opacity=".18"/><circle cx="19" cy="22" r=".6" fill="#9b917e" opacity=".12"/></pattern>
+ <linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f7f4ec"/><stop offset="1" stop-color="#eeeade"/></linearGradient>
+</defs>
+<rect width="1600" height="560" rx="24" fill="url(#paper)"/>
+<rect width="1600" height="560" rx="24" fill="url(#grain)"/>
+<path d="M0 505 Q240 468 530 513 T1120 508 T1600 487 L1600 560H0Z" fill="#dce2d2"/>
+<g fill="#58634f" font-family="Georgia,serif">
+<text x="98" y="123" font-size="22" letter-spacing="5">SAMANTHA / FIELD NOTES</text>
+<text x="94" y="230" font-size="76">A little curiosity.</text>
+<text x="94" y="323" font-size="76">Something worth making.</text>
+</g>
+<path d="M99 351 Q300 367 505 346" fill="none" stroke="#ce997b" stroke-width="5" stroke-linecap="round"/>
+<text x="99" y="414" fill="#79806f" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">PRODUCT · PEOPLE · POSSIBILITIES</text>
+<!-- A small, quiet thinking desk -->
+<g stroke="#596552" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<path d="M1130 459h375" fill="none"/>
+<path d="M1180 463v67m280-67v67" fill="none"/>
+<rect x="1212" y="265" width="216" height="145" rx="13" fill="#a6b7a0"/>
+<rect x="1225" y="278" width="190" height="118" rx="5" fill="#f5f1e7" stroke="none"/>
+<path d="M1200 423h240l-20 19h-198z" fill="#cdd7c5"/>
+<path d="M1250 333h40m-40 16h74m-74 16h55" stroke="#9ba68e"/>
+<rect x="1350" y="297" width="43" height="37" rx="5" fill="#edc3a2" stroke="none" transform="rotate(8 1371 315)"/>
+<path d="M1150 402h43v40h-43z" fill="#d4a889"/>
+<path d="M1193 410q25-3 20 17q-2 10-20 6" fill="none"/>
+<path d="M1163 386q-10-12 0-23m14 22q-10-12 0-23" stroke="#aeb5a4" fill="none"/>
+<path d="M1444 410h48l-7 32h-33z" fill="#d2d9c3"/>
+<path d="M1468 410v-72" fill="none"/>
+<path d="M1468 373q-41-9-32-38q31 1 32 38m0 11q35-5 32-35q-29 2-32 35m0-30q-18-15-6-40q24 14 6 40" fill="#a3b397"/>
+<path d="M1250 448l78 2" fill="none" stroke="#ce997b" stroke-width="6"/>
+</g>
+<g fill="none" stroke="#c29679" stroke-width="3" stroke-linecap="round"><path d="M1197 185v18m-9-9h18"/><path d="M1472 232v14m-7-7h14"/><path d="M1303 191q21-28 44-5q-3 17-23 11"/></g>
+<circle cx="1445" cy="167" r="6" fill="#b4bea8"/>
+</svg>
