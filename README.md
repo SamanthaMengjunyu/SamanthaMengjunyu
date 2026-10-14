@@ -1,46 +1,34 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamanthaMengjunyu/SamanthaMengjunyu/main/header-v3.jpg" width="100%" alt="Samantha / Field Notes — Curiosity, made tangible. 暖白纸面、绿植与阳光下的产品工作桌。" />
+  <img src="https://raw.githubusercontent.com/SamanthaMengjunyu/SamanthaMengjunyu/main/header-sasa.jpg" width="100%" alt="SaSa / Field Notes — 阳光下的工作桌、绿植和一本摊开的笔记。" />
 </p>
 
-<sub>蒙俊宇 · SAMANTHA　 /　 AI PRODUCT MANAGER　 /　 GUANGZHOU</sub>
+<p align="right"><a href="https://github.com/SamanthaMengjunyu/SamanthaMengjunyu/blob/main/README.en.md">English</a></p>
 
-## 把好奇心，做成下一步。
+### Hi，我是 SaSa，做 AI 产品。
 
-你好，我是俊宇。一名 AI 产品经理，喜欢从人的一个小困扰出发，和算法、工程伙伴一起，把「如果可以这样呢？」变成能体验的东西。
+这里放一些能公开的小实验和产品笔记，也记录和算法、工程伙伴一起做东西的过程。
 
-比起停在方案里，我更喜欢让原型先说话，再用评测和真实反馈，把下一步想清楚。
-
-<sub>2026.03 — NOW　趣丸 · 广州　　←　此前　雷鸟创新 · 深圳</sub>
+最近关注语音交互、Agent 和评测。比起只介绍功能，我更想写清楚：一个问题为什么值得做，方案哪里卡住了，最后怎么取舍。
 
 <br>
 
-### 01 / 我在琢磨什么
+### 最近在做
 
-**让 AI 听懂人。**　从语音交互到意图理解，关心每一次表达有没有被好好接住。  
-**让工作顺着走。**　探索 Agent、工具与工作流，让能力接进具体的使用场景。  
-**让「更好」有依据。**　把体验、效果和成本放在一起看，用评测帮助产品做取舍。
+我正在以 **Collaborator** 身份参与一个计划开源的项目。仓库还没公开，等开放后，再放上链接和我的具体贡献。
 
-<br>
-
-### 02 / 我的工作手记
-
-从问题和场景开始，画出交互，做一个可试的版本；和伙伴一起拆解能力边界，也一起看那些不够好的结果。
-
-这里会慢慢收录可公开的**产品思考、原型实验与协作记录**：为什么这样设计，试过哪些路，又学到了什么。
+产品笔记和小实验也会陆续整理到这里。
 
 <br>
 
-### 03 / 正在酝酿
+<details>
+<summary>关于我</summary>
 
-正在以 **Collaborator** 身份参与一个计划开源的项目。仓库目前为 private，公开后会补上项目链接与我的具体贡献。
+现在在广州。2026 年 3 月加入趣丸，此前在深圳的雷鸟工作。
 
-<sub>有些工作留在团队里，有些思考会在这里长出来。</sub>
+做 AI 产品，和算法、工程伙伴一起讨论方案、做原型、看评测结果。这里只分享可以公开的内容。
+
+</details>
 
 <br>
 
----
-
-**很高兴认识同样爱琢磨的人。**  
-AI 产品、语音体验、评测，或是一个值得试试的点子，都可以成为交流的开始。
-
-<p align="right"><sub>STAY CURIOUS. MAKE SOMETHING MATTER.</sub></p>
+如果你也在做 AI 产品，或对语音、Agent、评测有想法，很高兴交流。
