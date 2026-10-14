@@ -32,3 +32,5 @@
 <br>
 
 如果你也在做 AI 产品，或对语音、Agent、评测有想法，很高兴交流。
+
+联系我：[samanthamengjunyy@gmail.com](mailto:samanthamengjunyy@gmail.com)

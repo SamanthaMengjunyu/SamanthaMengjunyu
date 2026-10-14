@@ -32,3 +32,5 @@ I work with algorithm and engineering teams on product approaches, prototypes, a
 <br>
 
 If you're working on AI products, voice, agents, or evaluation, I'd be happy to exchange ideas.
+
+Email：[samanthamengjunyy@gmail.com](mailto:samanthamengjunyy@gmail.com)
