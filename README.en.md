@@ -14,7 +14,7 @@ I'm currently interested in voice interaction, agents, and evaluation. In my not
 
 ### In progress
 
-I currently work on multimodal AI projects for the entertainment industry at [Quwan Qianyin (AllVoiceLab)](https://www.allvoicelab.cn/) — our team site is [here](https://www.allvoicelab.cn/), where we build interesting things around multimodality. In my spare time, I'm a **Collaborator** on a project planned for open source; the repository is still private. I also have an open-source project of my own coming soon — stay tuned ✨
+I currently work on multimodal AI projects for the entertainment industry at [趣丸千音 (AllVoiceLab)](https://www.allvoicelab.cn/) — our team site is [here](https://www.allvoicelab.cn/), where we build interesting things around multimodality. In my spare time, I'm a **Collaborator** on a project planned for open source; the repository is still private. I also have an open-source project of my own coming soon — stay tuned ✨
 
 I'll also be adding product notes and small experiments here.
 
