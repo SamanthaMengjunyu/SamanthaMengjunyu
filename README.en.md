@@ -14,7 +14,7 @@ I'm currently interested in voice interaction, agents, and evaluation. In my not
 
 ### In progress
 
-I'm a **Collaborator** on a project planned for open source. The repository is still private; I'll add a link and describe my contributions once it's public.
+By day, I work on entertainment-industry AI projects at [Quwan (TTVoice)](https://www.allvoicelab.cn/) — our team site is [here](https://www.allvoicelab.cn/), where we build fun things around voice and audio. In my spare time, I'm a **Collaborator** on a project planned for open source; the repository is still private. I also have an open-source project of my own coming soon — stay tuned ✨
 
 I'll also be adding product notes and small experiments here.
 
